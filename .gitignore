@@ -1,3 +1,6 @@
+# Images are embedded in README, no need to push
+Images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
